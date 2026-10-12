@@ -1,4 +1,4 @@
-# Hi, I'm Widhyatma-sensei 👋
+# Hi, I'm Widhyatma 👋
 
 I am a junior researcher specializing in Earth Science data, with a strong emphasis on embedded systems, IoT, and atmospheric monitoring projects. My passion lies in developing innovative solutions that bridge technology and real-world applications. With a background in Data Science from my undergraduate studies, I am deeply committed to advancing research and science through technology-driven approaches.
 
@@ -47,7 +47,6 @@ I am a junior researcher specializing in Earth Science data, with a strong empha
 - [![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-1025-6929)](https://orcid.org/0000-0002-1025-6929)
 - [![ResearchGate Badge](https://img.shields.io/badge/-Evan_Alif_Widhyatma-00CCBB?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Evan-Alif-Widhyatma)](https://www.researchgate.net/profile/Evan-Alif-Widhyatma)
 - [![LinkedIn Badge](https://img.shields.io/badge/-Evan_Alif_Widhyatma-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/evan-alif-widhyatma-371966180/)](https://www.linkedin.com/in/evan-alif-widhyatma-371966180/)
-- [![Instagram Badge](https://img.shields.io/badge/-widhyatma_meteo-E1306C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/widhyatma_meteo/)](https://www.instagram.com/widhyatma_meteo/)
 - [![Gmail Badge](https://img.shields.io/badge/-evanalifwidhyatma@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:evanalifwidhyatma@gmail.com)](mailto:evanalifwidhyatma@gmail.com)
 
 
